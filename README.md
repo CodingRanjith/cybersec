@@ -23,7 +23,7 @@
 
 ![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/htk3.jpg)
 
-# Hackingtool Menu 
+# Tools Menu 
 
 
 
