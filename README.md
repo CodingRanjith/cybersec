@@ -169,7 +169,7 @@
 - [Stitch](https://github.com/nathanlopez/Stitch)
 - [Pyshell](https://github.com/knassar702/pyshell)
 ### XSS Attack Tools
-![](https://github.com/CodingRanjith/cybersec/blob/main/images/h14.jpg)
+![](https://github.com/CodingRanjith/cybersec/blob/main/cs/h14.jpg)
 - [DalFox(Finder of XSS)](https://github.com/hahwul/dalfox)
 - [XSS Payload Generator](https://github.com/capture0x/XSS-LOADER.git)
 - [Extended XSS Searcher and Finder](https://github.com/Damian89/extended-xss-search)
